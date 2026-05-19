@@ -1,0 +1,3 @@
+Python is an interpreted programming language.
+This program works on Windows, Linux and macOS.
+It demonstrates source code reuse across different platforms.
