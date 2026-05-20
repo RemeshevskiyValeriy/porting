@@ -1,0 +1,6 @@
+Calculation results
+-------------------
+Numbers: [10.0, 5.0, 2.0, 3.0]
+Sum: 20.0
+Subtraction: 0.0
+Multiplication: 300.0
